@@ -9,7 +9,7 @@ const operacaoMatematica = primeiroNumero - segundoNumero;
 
 console.log(operacaoMatematica)
 
-// ponto flutuante
+// ponto flutuantes
 
 const numeroPontoFlutuante = 3.3;
 const pontoFlutuanteSemZero = .5;
